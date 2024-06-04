@@ -1,0 +1,7 @@
+transformers
+datasets
+torch
+pandas
+numpy
+huggingface-hub
+sentence_transformers

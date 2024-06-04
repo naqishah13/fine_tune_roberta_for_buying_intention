@@ -1,0 +1,9 @@
+optuna
+transformers
+datasets
+scikit-learn
+torch
+pandas
+numpy
+huggingface-hub
+sentence_transformers
